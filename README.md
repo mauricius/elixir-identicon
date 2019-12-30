@@ -47,4 +47,4 @@ I used [Dialyxir](https://github.com/jeremyjh/dialyxir) to check for [types](htt
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE.md)
